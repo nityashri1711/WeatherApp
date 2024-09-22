@@ -13,4 +13,4 @@ sunrise = response.sunrise
 sunset = response.sunset
   
 
-  api key- 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
+  api key- 
